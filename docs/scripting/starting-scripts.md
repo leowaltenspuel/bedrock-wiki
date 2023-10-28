@@ -95,7 +95,8 @@ If your project needs other module to run your code, add another dependency that
 **Stable API modules**, these do not require the Beta APIs experiment to be turned on. The initial API set is narrow, but more features will be added over the coming months.
 
 -   `@minecraft/server`:
-    -   [`1.5.0`](https://www.npmjs.com/package/@minecraft/server/v/1.5.0) (Latest version)
+    -   [`1.6.0`](https://www.npmjs.com/package/@minecraft/server/v/1.6.0) (Latest version)
+    -   [`1.5.0`](https://www.npmjs.com/package/@minecraft/server/v/1.5.0)
     -   [`1.4.0`](https://www.npmjs.com/package/@minecraft/server/v/1.4.0)
     -   [`1.3.0`](https://www.npmjs.com/package/@minecraft/server/v/1.3.0)
     -   [`1.2.0`](https://www.npmjs.com/package/@minecraft/server/v/1.2.0)
@@ -109,7 +110,7 @@ If your project needs other module to run your code, add another dependency that
 
 -   `@minecraft/server`:
 
-    -   [`1.6.0-beta`](https://www.npmjs.com/package/@minecraft/server/v/1.6.0-beta.1.20.30-stable) (Latest beta)
+    -   [`1.7.0-beta`](https://www.npmjs.com/package/@minecraft/server/v/1.7.0-beta.1.20.40-stable) (Latest beta)
 
 -   `@minecraft/server-ui`:
     -   [`1.2.0-beta`](https://www.npmjs.com/package/@minecraft/server-ui/v/1.2.0-beta.1.20.30-stable) (Latest beta)
@@ -189,8 +190,8 @@ These allow for enhanced auto-completions and validation when used inside of you
 Latest beta API modules:
 
 ```bash
-npm i @minecraft/server@1.6.0-beta.1.20.30-stable
-npm i @minecraft/server-ui@1.2.0-beta.1.20.30-stable
+npm i @minecraft/server@1.7.0-beta.1.20.40-stable
+npm i @minecraft/server-ui@1.2.0-beta.1.20.40-stable
 npm i @minecraft/server-gametest@1.0.0-beta.1.20.30-stable
 npm i @minecraft/server-admin@1.0.0-beta.1.20.30-stable
 npm i @minecraft/server-net@1.0.0-beta.1.20.30-stable
